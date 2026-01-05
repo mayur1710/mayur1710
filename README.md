@@ -22,12 +22,6 @@
 
 ---
 
-## 🏆 Achievements
-
-🥉 **3rd Rank Holder** - Shivaji University, Kolhapur (CGPA: 8.98)  
-⚡ **40% Efficiency Gain** through automation | ✅ **99% Accuracy** in data validation
-
----
 
 ## 💼 Experience Highlights
 
