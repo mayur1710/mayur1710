@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Mayuresh Bhandari
 
-### 📊 Data Analyst | 🐍 Python | ☁️ Azure Data Engineer Enthusiast
+### ☁️ Azure Data Engineer
 
 *Transforming raw data into actionable insights through automation, ETL pipelines, and interactive dashboards*
 
