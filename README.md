@@ -14,25 +14,7 @@
 
 ---
 
-## 🎯 Currently
 
-🔍 **Actively seeking Data Analyst opportunities** where I can leverage my skills in Python automation, data visualization, and ETL processes to drive business insights.
-
-💼 **Working as Data Analyst Trainee at VG Software** - Automating recruitment workflows and building KPI dashboards.
-
----
-
-
-## 💼 Experience Highlights
-
-**Data Analyst Trainee** @ VG Software *(July 2025 - Present)*  
-Automated email processing for 500+ clients | Built KPI dashboards | 40% faster workflows
-
-**Python & AI Intern** @ AICTE *(Nov 2024 - Feb 2025)*  
-CNN model development | Flask deployment | Real-time prediction systems
-
-**Data Analyst Intern** @ Kulture Hire *(Sep 2024 - Nov 2024)*  
-Power BI dashboards | EDA & business insights
 
 ---
 
